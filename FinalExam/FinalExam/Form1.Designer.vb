@@ -37,12 +37,14 @@ Partial Class Form1
         Me.Num9 = New System.Windows.Forms.Button()
         Me.Num0 = New System.Windows.Forms.Button()
         Me.Button3 = New System.Windows.Forms.Button()
+        Me.Button4 = New System.Windows.Forms.Button()
+        Me.Button5 = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'Label1
         '
         Me.Label1.AutoSize = True
-        Me.Label1.Location = New System.Drawing.Point(79, 10)
+        Me.Label1.Location = New System.Drawing.Point(105, 10)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(85, 13)
         Me.Label1.TabIndex = 0
@@ -50,7 +52,7 @@ Partial Class Form1
         '
         'InputBox
         '
-        Me.InputBox.Location = New System.Drawing.Point(82, 26)
+        Me.InputBox.Location = New System.Drawing.Point(108, 26)
         Me.InputBox.Name = "InputBox"
         Me.InputBox.Size = New System.Drawing.Size(96, 20)
         Me.InputBox.TabIndex = 1
@@ -59,7 +61,7 @@ Partial Class Form1
         '
         Me.Button1.Location = New System.Drawing.Point(8, 52)
         Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(57, 23)
+        Me.Button1.Size = New System.Drawing.Size(80, 23)
         Me.Button1.TabIndex = 2
         Me.Button1.Text = "Double"
         Me.Button1.UseVisualStyleBackColor = True
@@ -68,14 +70,14 @@ Partial Class Form1
         '
         Me.Button2.Location = New System.Drawing.Point(8, 81)
         Me.Button2.Name = "Button2"
-        Me.Button2.Size = New System.Drawing.Size(57, 23)
+        Me.Button2.Size = New System.Drawing.Size(80, 23)
         Me.Button2.TabIndex = 3
         Me.Button2.Text = "Half"
         Me.Button2.UseVisualStyleBackColor = True
         '
         'Num1
         '
-        Me.Num1.Location = New System.Drawing.Point(82, 52)
+        Me.Num1.Location = New System.Drawing.Point(108, 52)
         Me.Num1.Name = "Num1"
         Me.Num1.Size = New System.Drawing.Size(28, 23)
         Me.Num1.TabIndex = 4
@@ -84,7 +86,7 @@ Partial Class Form1
         '
         'Num2
         '
-        Me.Num2.Location = New System.Drawing.Point(116, 52)
+        Me.Num2.Location = New System.Drawing.Point(142, 52)
         Me.Num2.Name = "Num2"
         Me.Num2.Size = New System.Drawing.Size(28, 23)
         Me.Num2.TabIndex = 5
@@ -93,7 +95,7 @@ Partial Class Form1
         '
         'Num3
         '
-        Me.Num3.Location = New System.Drawing.Point(150, 52)
+        Me.Num3.Location = New System.Drawing.Point(176, 52)
         Me.Num3.Name = "Num3"
         Me.Num3.Size = New System.Drawing.Size(28, 23)
         Me.Num3.TabIndex = 6
@@ -102,7 +104,7 @@ Partial Class Form1
         '
         'Num4
         '
-        Me.Num4.Location = New System.Drawing.Point(82, 81)
+        Me.Num4.Location = New System.Drawing.Point(108, 81)
         Me.Num4.Name = "Num4"
         Me.Num4.Size = New System.Drawing.Size(28, 23)
         Me.Num4.TabIndex = 7
@@ -111,7 +113,7 @@ Partial Class Form1
         '
         'Num5
         '
-        Me.Num5.Location = New System.Drawing.Point(116, 81)
+        Me.Num5.Location = New System.Drawing.Point(142, 81)
         Me.Num5.Name = "Num5"
         Me.Num5.Size = New System.Drawing.Size(28, 23)
         Me.Num5.TabIndex = 8
@@ -120,7 +122,7 @@ Partial Class Form1
         '
         'Num6
         '
-        Me.Num6.Location = New System.Drawing.Point(150, 81)
+        Me.Num6.Location = New System.Drawing.Point(176, 81)
         Me.Num6.Name = "Num6"
         Me.Num6.Size = New System.Drawing.Size(28, 23)
         Me.Num6.TabIndex = 9
@@ -129,7 +131,7 @@ Partial Class Form1
         '
         'Num7
         '
-        Me.Num7.Location = New System.Drawing.Point(82, 110)
+        Me.Num7.Location = New System.Drawing.Point(108, 110)
         Me.Num7.Name = "Num7"
         Me.Num7.Size = New System.Drawing.Size(28, 23)
         Me.Num7.TabIndex = 10
@@ -138,7 +140,7 @@ Partial Class Form1
         '
         'Num8
         '
-        Me.Num8.Location = New System.Drawing.Point(116, 110)
+        Me.Num8.Location = New System.Drawing.Point(142, 110)
         Me.Num8.Name = "Num8"
         Me.Num8.Size = New System.Drawing.Size(28, 23)
         Me.Num8.TabIndex = 11
@@ -147,7 +149,7 @@ Partial Class Form1
         '
         'Num9
         '
-        Me.Num9.Location = New System.Drawing.Point(150, 110)
+        Me.Num9.Location = New System.Drawing.Point(176, 110)
         Me.Num9.Name = "Num9"
         Me.Num9.Size = New System.Drawing.Size(28, 23)
         Me.Num9.TabIndex = 12
@@ -156,7 +158,7 @@ Partial Class Form1
         '
         'Num0
         '
-        Me.Num0.Location = New System.Drawing.Point(82, 139)
+        Me.Num0.Location = New System.Drawing.Point(108, 139)
         Me.Num0.Name = "Num0"
         Me.Num0.Size = New System.Drawing.Size(28, 23)
         Me.Num0.TabIndex = 13
@@ -165,18 +167,38 @@ Partial Class Form1
         '
         'Button3
         '
-        Me.Button3.Location = New System.Drawing.Point(116, 139)
+        Me.Button3.Location = New System.Drawing.Point(142, 139)
         Me.Button3.Name = "Button3"
         Me.Button3.Size = New System.Drawing.Size(62, 23)
         Me.Button3.TabIndex = 14
         Me.Button3.Text = "Clear"
         Me.Button3.UseVisualStyleBackColor = True
         '
+        'Button4
+        '
+        Me.Button4.Location = New System.Drawing.Point(8, 110)
+        Me.Button4.Name = "Button4"
+        Me.Button4.Size = New System.Drawing.Size(80, 23)
+        Me.Button4.TabIndex = 15
+        Me.Button4.Text = "Square"
+        Me.Button4.UseVisualStyleBackColor = True
+        '
+        'Button5
+        '
+        Me.Button5.Location = New System.Drawing.Point(8, 139)
+        Me.Button5.Name = "Button5"
+        Me.Button5.Size = New System.Drawing.Size(80, 23)
+        Me.Button5.TabIndex = 16
+        Me.Button5.Text = "Square Root"
+        Me.Button5.UseVisualStyleBackColor = True
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(359, 232)
+        Me.Controls.Add(Me.Button5)
+        Me.Controls.Add(Me.Button4)
         Me.Controls.Add(Me.Button3)
         Me.Controls.Add(Me.Num0)
         Me.Controls.Add(Me.Num9)
@@ -214,4 +236,6 @@ Partial Class Form1
     Friend WithEvents Num9 As Button
     Friend WithEvents Num0 As Button
     Friend WithEvents Button3 As Button
+    Friend WithEvents Button4 As Button
+    Friend WithEvents Button5 As Button
 End Class
