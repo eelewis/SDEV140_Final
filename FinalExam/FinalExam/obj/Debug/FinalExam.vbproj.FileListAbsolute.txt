@@ -9,3 +9,14 @@ D:\Documents\Class\!SDEV 140\Assignments\Final\FinalExam\FinalExam\obj\Debug\Fin
 D:\Documents\Class\!SDEV 140\Assignments\Final\FinalExam\FinalExam\obj\Debug\FinalExam.exe
 D:\Documents\Class\!SDEV 140\Assignments\Final\FinalExam\FinalExam\obj\Debug\FinalExam.xml
 D:\Documents\Class\!SDEV 140\Assignments\Final\FinalExam\FinalExam\obj\Debug\FinalExam.pdb
+C:\Users\facelewis\Source\Repos\eelewis\SDEV140_Final\FinalExam\FinalExam\bin\Debug\FinalExam.exe.config
+C:\Users\facelewis\Source\Repos\eelewis\SDEV140_Final\FinalExam\FinalExam\obj\Debug\FinalExam.exe
+C:\Users\facelewis\Source\Repos\eelewis\SDEV140_Final\FinalExam\FinalExam\obj\Debug\FinalExam.xml
+C:\Users\facelewis\Source\Repos\eelewis\SDEV140_Final\FinalExam\FinalExam\obj\Debug\FinalExam.pdb
+C:\Users\facelewis\Source\Repos\eelewis\SDEV140_Final\FinalExam\FinalExam\obj\Debug\FinalExam.vbprojResolveAssemblyReference.cache
+C:\Users\facelewis\Source\Repos\eelewis\SDEV140_Final\FinalExam\FinalExam\obj\Debug\FinalExam.Form1.resources
+C:\Users\facelewis\Source\Repos\eelewis\SDEV140_Final\FinalExam\FinalExam\obj\Debug\FinalExam.Resources.resources
+C:\Users\facelewis\Source\Repos\eelewis\SDEV140_Final\FinalExam\FinalExam\obj\Debug\FinalExam.vbproj.GenerateResource.Cache
+C:\Users\facelewis\Source\Repos\eelewis\SDEV140_Final\FinalExam\FinalExam\bin\Debug\FinalExam.exe
+C:\Users\facelewis\Source\Repos\eelewis\SDEV140_Final\FinalExam\FinalExam\bin\Debug\FinalExam.pdb
+C:\Users\facelewis\Source\Repos\eelewis\SDEV140_Final\FinalExam\FinalExam\bin\Debug\FinalExam.xml
